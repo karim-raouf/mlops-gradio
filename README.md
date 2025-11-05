@@ -24,7 +24,7 @@ This is a simple chat application that uses the Ollama API to provide responses.
 
 1. **Clone the repository**
 
-git clone https://github.com/maryamabdallahmohamed/Ai_Assistant.git cd Ai_Assistant
+git clone https://github.com/karim-raouf/mlops-gradio.git cd Ai_Assistant
 
 
 2. **Install UV package manager** (if you don't have it)
